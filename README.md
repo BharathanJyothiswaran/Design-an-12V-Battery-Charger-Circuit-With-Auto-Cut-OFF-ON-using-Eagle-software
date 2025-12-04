@@ -50,7 +50,8 @@ The **12V battery charger circuit with auto cut-off and on** works by continuous
 <img width="1084" height="600" alt="image" src="https://github.com/user-attachments/assets/2986b7ef-d580-43d5-aca4-bb4fee58a14b" />
 
 ## Layout diagram
-![Uploading image.png…]()
+<img width="1340" height="628" alt="image" src="https://github.com/user-attachments/assets/acf6db26-be89-45ab-acce-c06ccdc10737" />
+
 
 # RESULT:
 Thus, the schematic,layout diagram and generate gerber file for a 12V Battery Charger Circuit With Auto Cut OFF & ON circuit has been successfully designed using Eagle software.
